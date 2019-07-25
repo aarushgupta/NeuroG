@@ -1,6 +1,6 @@
 # NeuroG
 
-NeuroG is a class wrapper for [Neuroglancer](https://github.com/google/neuroglancer).
+NeuroG is a class wrapper for [Neuroglancer](https://github.com/google/neuroglancer), a WebGL-based viewer for volumetric data.
 
 This repositoty also contains post-processing code to get segmentation map from a distance transform map. 
 
